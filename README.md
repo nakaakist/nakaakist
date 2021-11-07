@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nakaakist
 - 👀 I’m interested in ...
-  - Javascript/Typescript
+  - JavaScript/TypeScript
   - Web frontend
-  - Clearn architecture, DDD
+  - DDD, Clearn architecture
 
 <!---
 nakaakist/nakaakist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
