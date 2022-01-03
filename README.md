@@ -4,6 +4,7 @@
   - Web frontend
   - object-oriented programming, functional programming
   - DDD, clearn architecture
+  - UI/UX
 
 <!---
 nakaakist/nakaakist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
