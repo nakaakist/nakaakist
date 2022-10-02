@@ -3,9 +3,9 @@
   - JavaScript, TypeScript
   - object-oriented programming, functional programming
   - UI/UX
-  - DDD
   - data analysis & intelligence
   - blockchain
+  - DDD
 
 <!---
 nakaakist/nakaakist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
