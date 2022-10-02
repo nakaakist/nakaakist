@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @nakaakist
 - 👀 I’m interested in ...
   - JavaScript, TypeScript
-  - Web frontend
   - object-oriented programming, functional programming
   - UI/UX
   - DDD
   - data analysis & intelligence
+  - blockchain
 
 <!---
 nakaakist/nakaakist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
